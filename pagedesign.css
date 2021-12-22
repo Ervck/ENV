@@ -55,6 +55,11 @@ section {
   text-decoration: none;
 }
 
+a:hover {
+  background-color: #111;
+}
+
+
 .navbar a:hover {
   background-color: #222;
 }
@@ -65,9 +70,6 @@ article {
   padding: 10px;
 }
 
-a:hover {
-  background-color: #111;
-}
 
 footer {
   background-color: #000;
